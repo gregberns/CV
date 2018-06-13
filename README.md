@@ -59,7 +59,7 @@ Tech: **React Native/Redux; C# Web Api; Sql Server; Azure: Functions, EventHub; 
 
 ### SilverRock Inc. (Nov 2015 - Oct 2016)
 
-In a ‘startup-like’ atmosphere in DriveTime, developed web portal for Auto Dealerships to sell vehicle warranties to third-party dealerships. Responsible for significant portion of the architecture and development of code base.
+In a ‘startup-like’ atmosphere in DriveTime, developed web portal to sell vehicle warranties through third-party dealerships. Responsible for significant portion of the architecture and development of code base.
 
 * Angular 1 / Bootstrap Portal UI with NodeJS hosted API
 * Backend microservices - C# and F# hosted in Azure Web Apps 
