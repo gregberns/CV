@@ -30,9 +30,9 @@ Full-stack software developer, experienced in designing, delivering, and maintai
 * Modern UI Paradigms - No MV*; rather Flux/Redux or Observables to maintain code quality
 * Multiple Data Persistence Solutions - SQL + No-Sql - the right tech for the right problem
 
-## DriveTime Inc. - Tempe, AZ
+## DriveTime Inc.  (Nov 2015 - Current)
 
-Team Lead and Application Developer  (Nov 2015 - Current)
+Team Lead and Application Developer
 
 ### Team Lead - Mobile and A/B Experiments (Sept 2017 - Current)
 
@@ -59,7 +59,7 @@ Tech: **React Native/Redux; C# Web Api; Sql Server; Azure: Functions, EventHub; 
 
 ### SilverRock Inc. (Nov 2015 - Oct 2016)
 
-In a ‘startup-like’ atmosphere, developed web portal for Auto Dealerships to sell ancillary products, like car warranties, to customers. Responsible for significant portion of the architecture and development of code base.
+In a ‘startup-like’ atmosphere in DriveTime, developed web portal for Auto Dealerships to sell vehicle warranties to third-party dealerships. Responsible for significant portion of the architecture and development of code base.
 
 * Angular 1 / Bootstrap Portal UI with NodeJS hosted API
 * Backend microservices - C# and F# hosted in Azure Web Apps 
@@ -80,7 +80,7 @@ Built and supported InfoBurst, a niche software platform that distributes Busine
 
 ### Senior Software Developer  (2013 - 2015)
 
-Software Developer								(2011 - 2013)
+Software Developer (2011 - 2013)
 
 Senior member of development team. Help determine product direction, team priorities, and responsible for development of core product.
 
@@ -119,10 +119,10 @@ Tech Used @ InfoSol:
 * Other: Mercurial, Git, Fiddler, TeamCity, SAP Business Objects, VMWare
 
 ## Areas of Research
-Functional Programming (Haskell, F#, ReasonML), Distributed Computing, Domain Driven Design
+Functional Programming (Haskell, ReasonML, F#), Distributed Computing, Domain Driven Design
 
 ## Education
-Northern Illinois University - BS in Business Administration 			   August 2006
+Northern Illinois University - BS in Business Administration (August 2006)
 
 ## Interests
 Cooking, eating and drinking delicious things; Traveling to far off lands, eating their food (Thailand, Costa Rica, China, Mexico, Europe); Camping and Hiking throughout Arizona
