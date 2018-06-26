@@ -21,14 +21,14 @@ Full-stack software developer, experienced in designing, delivering, and maintai
 * Develop/supported an enterprise grade product at 250+ sites worldwide
 
 ## Ideal Technical Ecosystem
-* Source Control - Git
+* Source Control - Git through GitHub, GitLab, etc.
+* Modern UI Paradigms - No MV*; rather Flux/Redux or Observables to maintain code quality
 * Functional Programming concepts/languages/libraries - to ensure testable, extensible software
 * Code Review - to ensure high code quality
 * CI/CD - Automated Build and Deployment to increase velocity
 * Automated Testing - to ensure high quality, reliability, and maintainability
-* Logging, Monitoring, and Alerting - first-class features to ensure high reliability
-* Modern UI Paradigms - No MV*; rather Flux/Redux or Observables to maintain code quality
 * Multiple Data Persistence Solutions - SQL + No-Sql - the right tech for the right problem
+* Logging, Monitoring, and Alerting - first-class features to ensure high reliability
 
 ## DriveTime Inc.  (Nov 2015 - Current)
 
